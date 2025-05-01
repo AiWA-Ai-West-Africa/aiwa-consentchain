@@ -1,4 +1,4 @@
-# AiWA RecordChain
+# AiWA ConsentChain
 
 Secure, blockchain-based logging of West African Language oral submissions using WordPress, GCS, Vault, and Polygon.
 
