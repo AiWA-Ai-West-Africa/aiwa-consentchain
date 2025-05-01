@@ -1,6 +1,6 @@
 # AiWA RecordChain
 
-Secure, blockchain-based logging of Mandinka oral submissions using WordPress, GCS, Vault, and Polygon.
+Secure, blockchain-based logging of West African Language oral submissions using WordPress, GCS, Vault, and Polygon.
 
 ## 🔍 Overview
 AiWA RecordChain is an auditable, end-to-end pipeline that captures, verifies, and immutably logs audio submissions for the AiWA (Ai West Africa) language preservation project. Built for long-term data integrity and ethical transparency, this system ensures every oral history is:
